@@ -6,5 +6,5 @@ use ExtUtils::MakeMaker;
 
 WriteMakefile(
     NAME            => 'Candi::CandiLib',
-    VERSION_FROM    => 'lib/CandiLib/CandiLib.pm'
+    VERSION    => '1.0'
 );
